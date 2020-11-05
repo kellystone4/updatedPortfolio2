@@ -3,6 +3,8 @@
 
 <center>
 
+![alttext](Home.gif)
+
 # Updated Portfolio 2
 
 </u>
@@ -14,12 +16,12 @@
 </u>
 </center>
 
-### Our goal for this assignment was to revamp our previous portfolio! I added visuals, animations, and different . From the original project, I updated my portfolio, added a home page, and updated the backgrounds to look more aesthetically pleasing.
+### Our goal for this assignment was to revamp our previous portfolio! I added visuals, animations, gifs, and updated my portfolio to showcase the projects and assignments I was most proud of. Compared to the original, I updated portfolio, added a home page, and updated the backgrounds to look more aesthetically pleasing.
 
 <br>
 
 
-My first step for this project was to decide what funtionalities I wanted to add to amp up this project. I decided I wanted to add in animations to make the page more creative and dynamic. 
+My first step for this project was to decide what funtionalities I wanted to add to amp up this project. I decided I wanted to add in animations to make the page more creative and dynamic. I added a different image in the background of the homepage and to all other pages to make it more cohesive. Then, I decided that the images showcasing my projects in the portfolio weren't eye catching enough so I added gifs in their place. 
 
 <br>
 
@@ -36,6 +38,7 @@ Within this project, I included:
 2. Resume, Linkedin, Github and Email
 3. Aesthetic web layout
 4. Linked icon and pages
+5. Gifs in Portfolio page
 
  ```
 
@@ -56,12 +59,6 @@ Within this project, I included:
 
     -  I solved this issue by using responsive containers and cards, and a media query for my About Me page to shrink the image down to a size that would fit a mobile screen:
 
-  <br>
-
-    ![Image](psuedocode.png)
-
-
-   <br>
 
 
 <br>
@@ -89,10 +86,10 @@ Within this project, I included:
 
 ## Links:
 
-- [Link to Github](https://github.com/kellystone4/updatedPortfolio)
+- [Link to Github](https://github.com/kellystone4/updatedPortfolio2)
 - [Link to LinkedIn](https://www.linkedin.com/in/kelly-a-stone/)
 
 <br>
 
 ## Deployed Link:
-- [Link to Updated Portfolio Site](https://kellystone4.github.io/updatedPortfolio/)
+- [Link to Updated Portfolio Site](https://kellystone4.github.io/updatedPortfolio2/)
