@@ -37,6 +37,14 @@
     color:grey;
     text-shadow: 2px 2px 4px black;
 }
+.headerText1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px; 
+    color:white;
+    text-shadow: 2px 2px 4px black;
+}
 .navbarFont {
     text-align: center;
     font-family: 'Roboto', sans-serif;
