@@ -1,15 +1,14 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
  .main{
     margin-top: 100px;
 
 } 
-
-/* .card{
-    align-items: center;
-    align-content: center;
-
-}   */
 
 .navbar-nav {
     margin-top: -5%;
@@ -28,6 +27,23 @@
 }
 .nav-class {
     color: white;
+}
+
+.headerText {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px; 
+    color:rgb(238, 238, 238);
+    text-shadow: 2px 2px 4px #000000;
+}
+.navbarFont {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px; 
+    color:white;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .nav-link:hover {
