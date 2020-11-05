@@ -92,4 +92,5 @@ Within this project, I included:
 <br>
 
 ## Deployed Link:
-- [Link to Updated Portfolio Site](https://kellystone4.github.io/updatedPortfolio2/)
+- [Heroku Link to Updated Portfolio Site](https://git.heroku.com/rocky-hollows-02421.git)
+- [Github Link to Updated Portfolio Site](https://kellystone4.github.io/updatedPortfolio2/)
