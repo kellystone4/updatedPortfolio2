@@ -1,0 +1,123 @@
+
+
+ .main{
+    margin-top: 100px;
+
+} 
+
+/* .card{
+    align-items: center;
+    align-content: center;
+
+}   */
+
+.navbar-nav {
+    margin-top: -5%;
+}
+
+.footer{
+    margin-top: 50px;
+}
+
+.bg-cover {
+    height: 100%;
+    background-position-y: initial;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-class {
+    color: white;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+  }
+  
+.nav-link:active {
+    text-decoration: underline;
+  }
+
+.img {
+    image: center;
+}
+
+h1 {
+    text-emphasis: bold;
+}
+.btn {
+    align-items: center;
+}
+
+.col-6 {
+    margin-left: 80px;
+}
+.col-4 {
+    margin-left: 10px;
+}
+.c {
+    text-align: center; 
+    width: 100%; 
+    
+}
+.intro {
+    margin-top: -2%;
+}
+
+.contact {
+    word-spacing: 100px;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+.contactInfo {
+    font-size: 12px;
+    word-spacing: 10px;
+}
+.resume {
+    margin-left: 285px;
+    margin-right: 250px;
+}
+#hp {
+    margin-right: 20px;
+    margin-left: 20px;
+    align-content: center;
+    color: white;
+}
+
+.am {
+    align-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+@media screen and (max-width: 600px) {
+    .aImg {
+        
+        height: 400px;
+        width: 300px;
+    }
+
+}
+.aImg {
+    margin-top: 50px;
+}
+.rtitle {
+    margin-right: 20px;
+}
+.resume {
+    margin-top: -20px;
+    margin-left: 0px;
+    margin-right: -100px;
+}
+.pimg {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.amc {
+    margin-top: -75px;
+}
